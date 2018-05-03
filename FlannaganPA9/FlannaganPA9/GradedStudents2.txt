@@ -1,0 +1,13 @@
+Student Name                 Score     Grade
+
+dooby     , Scooby           -85         F
+Goofy     , Goof              89         B
+Balto     , Brave             93         A
+Smitn     , Snow              93         A
+          ,           -858993460         F
+ 
+The highest grade is: 93
+
+The following students had the highest grade:
+Balto, Brave
+Smitn, Snow

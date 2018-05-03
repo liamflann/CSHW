@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\liam\source\repos\flannaganpa2\flannaganpa2\main.cpp(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  FlannaganPA2.vcxproj -> C:\Users\Liam\source\repos\FlannaganPA2\Debug\FlannaganPA2.exe
