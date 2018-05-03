@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\liam\source\repos\flannaganpa5\flannaganpa5\main.cpp(65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\liam\source\repos\flannaganpa5\flannaganpa5\main.cpp(119): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FlannaganPA5.vcxproj -> C:\Users\Liam\source\repos\FlannaganPA5\Debug\FlannaganPA5.exe

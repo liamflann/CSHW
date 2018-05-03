@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\liam\source\repos\flannaganpa8\flannaganpa8\main.cpp(55): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  FlannaganPA8.vcxproj -> C:\Users\Liam\source\repos\FlannaganPA8\Debug\FlannaganPA8.exe

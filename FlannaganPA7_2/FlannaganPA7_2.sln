@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlannaganPA7_2", "FlannaganPA7_2\FlannaganPA7_2.vcxproj", "{5FE1E99B-82CA-4BDC-89F2-F343EACA0FF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE1E99B-82CA-4BDC-89F2-F343EACA0FF6}.Debug|x64.ActiveCfg = Debug|x64
+		{5FE1E99B-82CA-4BDC-89F2-F343EACA0FF6}.Debug|x64.Build.0 = Debug|x64
+		{5FE1E99B-82CA-4BDC-89F2-F343EACA0FF6}.Debug|x86.ActiveCfg = Debug|Win32
+		{5FE1E99B-82CA-4BDC-89F2-F343EACA0FF6}.Debug|x86.Build.0 = Debug|Win32
+		{5FE1E99B-82CA-4BDC-89F2-F343EACA0FF6}.Release|x64.ActiveCfg = Release|x64
+		{5FE1E99B-82CA-4BDC-89F2-F343EACA0FF6}.Release|x64.Build.0 = Release|x64
+		{5FE1E99B-82CA-4BDC-89F2-F343EACA0FF6}.Release|x86.ActiveCfg = Release|Win32
+		{5FE1E99B-82CA-4BDC-89F2-F343EACA0FF6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED5F698E-FB2C-4427-B611-E43B639706E0}
+	EndGlobalSection
+EndGlobal
