@@ -9,7 +9,7 @@ left index to the midPoint +1 and recalculate the midPoint ELSE if the lookFor i
 midPoint, shift the right index to the midPoint -1 and recalculate the midPoint
 Assistance: used Geeks for Geeks for general help with the code since I couldnt' get my
 initial algorithim to pass all cases, also consulted with the boards on Coursera
-to improve performance time since the program timed out on case 32*/
+to improve performance time since the program timed out on case 32.*/
 
 #include <iostream>
 #include <cassert>
